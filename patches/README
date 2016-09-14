@@ -1,0 +1,5 @@
+This is patch directory
+
+cd WORKING_DIR
+sh device/umi/SUPER/patches/install.sh
+sh device/umi/SUPER/patches/uninstall.sh
